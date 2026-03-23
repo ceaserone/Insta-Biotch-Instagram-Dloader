@@ -1,4 +1,4 @@
-# Insta-Biotch – Instagram Downloader
+# Insta-Biotch     Instagram Downloader
 
 ![SynAck DEVNet](https://img.shields.io/badge/synacknetwork.com-SynAck%20DEVNet-black?style=for-the-badge&logo=hackthebox)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
