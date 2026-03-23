@@ -53,8 +53,7 @@ APK is below in the 'release' section.... 🙄 duh..
 
 ## Screenshot
 
-ss.jpg
-
+![Screenshot](ss.jpg)
 ---
 
 ## Build It Yourself
