@@ -47,14 +47,13 @@ Everything downloads immediately.
 
 ## Download
 
-APK:
-misc-files/instabiotch.apk
+APK is below in the 'release' section.... 🙄 duh..
 
 ---
 
 ## Screenshot
 
-misc-files/ss.jpg
+ss.jpg
 
 ---
 
@@ -86,4 +85,4 @@ Just speed and function.
 
 ## License
 
-Do whatever you want with it.
+This is under the 'Fuck Society' license...Do whatever you want with it. (Im sure some fuck-tard will add..ads to it and aell it on the playstore, so if you ever see it let me know, and we can reck havok on the mutherfucker!!🤯🤟😜🤔💯)
