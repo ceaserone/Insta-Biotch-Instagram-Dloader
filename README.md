@@ -84,4 +84,6 @@ Just speed and function.
 
 ## License
 
-This is under the 'Fuck Society' license...Do whatever you want with it. (Im sure some fuck-tard will add..ads to it and aell it on the playstore, so if you ever see it let me know, and we can reck havok on the mutherfucker!!🤯🤟😜🤔💯)
+This is under the 'Fuck Society' license...Do whatever you want with it!
+
+🤔😜🤯🤟👉🍕😁🤤💯
